@@ -11,48 +11,31 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Engenheiro Eletricista, Instituto Federal Sul-rio-grandense, 2012
+* Especialista em Empreendedorismo nas Engeharias, CREA / UNIVESP, 2020
+* Mestre em Engenharia Mecânica, subárea de Controle e Automação Mecânica, 2019
 
-Work experience
+Experiência Profissional
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2013-2023
+  * Marinha do Brasil
+  * Tarefas principais: Projetos de sistemas elétricos navais, incluindo dimensionamento, especificação e avaliação. Dimensionamento e especificação de sistemas de propulsão naval (_full electric concept_)
+* 2020-2022
+  * Centro Universitário Adventista em São Paulo
+  * Disciplinas lecionadas: Circuitos Elétricos I, Eletrônica II, Processamento Digital de Sinais 
   
-Skills
+Habilidades
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Office (Word, Excel, PowerPoint, PowerBI)
+* Programação
+  * Python
+  * R
+  * Matlab
+  * C++
+* Idiomas
+  * Inglês (IELTS 7.0, C1)
+  * Espanhol (intermediário)
+  * Francês (intermediário)
   
 Service and leadership
 ======

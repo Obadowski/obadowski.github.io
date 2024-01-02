@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Publications"
-permalink: /publications/
+title: "Estatística"
+permalink: /stats/
 author_profile: true
 ---
 

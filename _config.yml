@@ -175,10 +175,10 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
+  python:
     output: true
     permalink: /:collection/:path/
-  publications:
+  stats:
     output: true
     permalink: /:collection/:path/
   portfolio:
@@ -202,6 +202,7 @@ defaults:
       comments: true
       share: true
       related: true
+      
   # _pages
   - scope:
       path: ""
@@ -209,19 +210,21 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
+      
+  # _python
   - scope:
       path: ""
-      type: teaching
+      type: python
     values:
       layout: single
       author_profile: true
       share: true
       comments: true
-  # _publications
+    
+  # _stats
   - scope:
       path: ""
-      type: publications
+      type: stats
     values:
       layout: single
       author_profile: true
